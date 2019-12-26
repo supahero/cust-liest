@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "first_name": "Vadim",
+      "last_name": "Kropotin",
+      "email": "kropvad@gmail.com",
+      "phone": "89963247857",
+      "address": "Shevchenko 21",
+      "description": "grecko",
+      "id": 1
+    },
+    {
+      "first_name": "Вадим",
+      "last_name": "Кропотин",
+      "email": "kva@openmailbox.org",
+      "phone": "none",
+      "address": "Бульвар Гагарина 37а",
+      "description": "jackie",
+      "id": 2
+    }
+  ]
+}
